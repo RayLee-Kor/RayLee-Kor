@@ -7,7 +7,7 @@ I'm JeongWoo (Ray) Lee, <br>
 <hr>
 
 <div align="center">
-  🥥 Now I'm Studying <br> <br>
+  🥥 Now Studying <br> <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black"> <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=GO&logoColor=black"> <br> <br> <br>
   🍇 My Experience <br> <br>
    <b> Backend </b> <br> <br>
