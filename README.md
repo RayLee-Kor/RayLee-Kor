@@ -2,7 +2,7 @@
 I'm JeongWoo (Ray) Lee, <br> 
 많은 분들과의 생각과 의견 공유를 좋아하고 그로 인해 꾸준히 성장하는 개발자가 되고 싶습니다.<br>
 
-![Ray Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayLee-Kor&show_icons=true&theme=radical)
+![raylee0519's GitHub stats](https://github-readme-stats.vercel.app/api?username=raylee0519&show_icons=true&theme=radical)
 
 <hr>
 
